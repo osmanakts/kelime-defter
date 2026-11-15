@@ -6,7 +6,7 @@ Modern web geliştirme eğitimi kapsamında yapay zeka destekli olarak geliştir
 ![Uygulama Ekran Görüntüsü](./screenshot.png)
 
 ## 🚀 Canlı Demo
-Uygulamanın çalışan haline buradan ulaşabilirsiniz: **[Canlı Demo Linki Buraya Gelecek]**
+Uygulamanın çalışan haline buradan ulaşabilirsiniz: **[](https://vocabvault-osmanaktas.netlify.app)**
 
 ## 🛠️ Kullanılan Teknolojiler
 * **Çatı / Kütüphane:** React 18 (Vite ile oluşturuldu)
