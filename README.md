@@ -3,7 +3,8 @@
 Modern web geliştirme eğitimi kapsamında yapay zeka destekli olarak geliştirilmiş, kullanıcıların yabancı dil kelimelerini veya teknik kavramları kategorize ederek kaydedebildiği bir web uygulamasıdır.
 
 ## 📸 Ekran Görüntüsü
-![Uygulama Ekran Görüntüsü](./screenshot.png)
+
+<img width="1713" height="805" alt="Onurhoca" src="https://github.com/user-attachments/assets/2489878a-5a94-4644-9eda-2fb4e28a044c" />
 
 ## 🚀 Canlı Demo
 Uygulamanın çalışan haline buradan ulaşabilirsiniz: **(https://vocabvault-osmanaktas.netlify.app)**
